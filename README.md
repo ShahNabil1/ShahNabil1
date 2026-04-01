@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Passionate Backend Architect and Business Operator. I bridge the gap between complex technical logic and measurable business growth, rapidly prototyping production-grade systems using AI-assisted dev tools (Lovable) and robust Supabase backends.</em>
+  <em>Passionate Backend Architect and Business Operator. I bridge the gap between complex technical logic and measurable business growth, rapidly prototyping production-grade systems using AI-assisted dev tools and robust Supabase backends.</em>
 </p>
 
 ---
@@ -64,19 +64,6 @@
 | **[Flaroma Customizer](#)** | Premium chocolate e-commerce with a multi-step build engine & automated logistics via Steadfast API. | `E-Commerce` |
 | **[Portfolio OS](#)** | My personal ecosystem acting as a mini-SaaS with an AI Copilot, meeting scheduler, and custom CMS. | `Web OS` |
 | **[Probashe Bangladesh](#)** | AI-powered overseas employment and visa processing system with hybrid chatbot integration. | `Visa Portal` |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahNabil1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38B2AC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahNabil1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahNabil1&theme=tokyonight&hide_border=true&background=0D1117&ring=38B2AC&fire=38B2AC&currStreakNum=ffffff" alt="GitHub Streak" width="98%" />
-</div>
 
 ---
 
